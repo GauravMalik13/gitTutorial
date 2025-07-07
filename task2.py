@@ -1,0 +1,1 @@
+print("This is file for task 2")
